@@ -28,3 +28,22 @@ Did it work?
 
 [type=verificationFail]
 Try the steps again. If it's still not working contact your administrator.
+
+[time=5]
+== Task Title
+
+// Subtasks are not required. 
+// For simple walkthroughs, create your procedure under tasks.
+
+=== Subtask Title
+
+. Do first step.
+. Do second step.
+
+[type=verification]
+====
+Did it work?
+====
+
+[type=verificationFail]
+Try the steps again. If it's still not working contact your administrator.
