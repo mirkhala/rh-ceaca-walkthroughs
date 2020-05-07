@@ -10,6 +10,7 @@
 * link:https://blog.openshift.com/[Openshift Blog, window="_blank"]
 ****
 
+[type=walkthroughResource,serviceName=openshift]
 .Credenciales OpenShift
 ****
 * **User:** user**YOUR#**
