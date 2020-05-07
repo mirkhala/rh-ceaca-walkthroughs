@@ -8,11 +8,10 @@
 * link:{openshift-host}/console[Console, window="_blank"]
 * link:https://help.openshift.com/[Openshift Online Help Center, window="_blank"]
 * link:https://blog.openshift.com/[Openshift Blog, window="_blank"]
-* Credenciales OpenShift:
+.Credenciales OpenShift:
 
-**User:** user**YOUR#**
-
-**Password:** openshift
+* **User:** user**YOUR#**
+* **Password:** openshift
 
 _Recuerda sustituir *YOUR#* con el numero que se te asigno al inicio del workshop_
 ****
