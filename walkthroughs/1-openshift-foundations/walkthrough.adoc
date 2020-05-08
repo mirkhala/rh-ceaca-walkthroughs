@@ -17,14 +17,12 @@
 ****
 * **User:** `{user-username}`
 * **Password:** `{user-password}` 
-
-_Recuerda sustituir *YOUR#* con el numero que se te asigno al inicio del workshop_
 ****
 
 [time=5]
 [id='openshift-foundation']
 == Lab 0: Setup
-En esta guía, `*{user-username}*` es el usuario que se le fue asignado al iniciar el workshop, con este usuario deberá ingresar a la link:{openshift-host}/console[consola de OpenShift, window="_blank"] y seguir los siguientes pasos:
+En esta guía, `*{user-username}*` es el usuario que se le fue asignado al iniciar el workshop, con este usuario deberá ingresar a la link:{openshift-host}[consola de OpenShift, window="_blank"] y seguir los siguientes pasos:
 
 . Click en el menu `*Home > Projects*`
 +
